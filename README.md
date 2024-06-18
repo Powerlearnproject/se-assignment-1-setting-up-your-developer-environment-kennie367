@@ -12,28 +12,43 @@ This assignment aims to familiarize you with the tools and configurations necess
 
 1. Select Your Operating System (OS):
    Choose an operating system that best suits your preferences and project requirements. Download and Install Windows 11. https://www.microsoft.com/software-download/windows11
+   The operating system which am using is windows 11
 
-2. Install a Text Editor or Integrated Development Environment (IDE):
+3. Install a Text Editor or Integrated Development Environment (IDE):
    Select and install a text editor or IDE suitable for your programming languages and workflow. Download and Install Visual Studio Code. https://code.visualstudio.com/Download
-3. Set Up Version Control System:
+   
+   The text editor that am using is visual studio code
+   
+5. Set Up Version Control System:
    Install Git and configure it on your local machine. Create a GitHub account for hosting your repositories. Initialize a Git repository for your project and make your first commit. https://github.com
+   
+   First I had to dowload the git bash and configured it to my name and email
+For the version control version that i am using is git bash
 
-4. Install Necessary Programming Languages and Runtimes:
+7. Install Necessary Programming Languages and Runtimes:
   Instal Python from http://wwww.python.org programming language required for your project and install their respective compilers, interpreters, or runtimes. Ensure you have the necessary tools to build and execute your code.
 
-5. Install Package Managers:
+8. Install Package Managers:
    If applicable, install package managers like pip (Python).
+   
+python version is 3.11.2
 
-6. Configure a Database (MySQL):
+10. Configure a Database (MySQL):
    Download and install MySQL database. https://dev.mysql.com/downloads/windows/installer/5.7.html
+   
+   I dowlaoded the mysql database and configured it correctly and i was able to crreate a database and i was able to view it.
 
-7. Set Up Development Environments and Virtualization (Optional):
+11. Set Up Development Environments and Virtualization (Optional):
    Consider using virtualization tools like Docker or virtual machines to isolate project dependencies and ensure consistent environments across different machines.
 
-8. Explore Extensions and Plugins:
+Created a django virtual environment 
+
+13. Explore Extensions and Plugins:
    Explore available extensions, plugins, and add-ons for your chosen text editor or IDE to enhance functionality, such as syntax highlighting, linting, code formatting, and version control integration.
 
-9. Document Your Setup:
+I have several extension plugins llike the flutter, dart, sql, live server etc
+
+14.  Document Your Setup:
     Create a comprehensive document outlining the steps you've taken to set up your developer environment. Include any configurations, customizations, or troubleshooting steps encountered during the process. 
 
 #Deliverables:
